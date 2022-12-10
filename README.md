@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MGK</h1>
 <h3 align="center">A developer from Qatar 🇶🇦</h3>
 
-- 📫 Contact me **m8@outlook.lv**
+- 📫 Contact me **🍿@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
